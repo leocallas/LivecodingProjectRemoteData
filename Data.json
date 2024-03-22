@@ -5,132 +5,189 @@
         "amount": -264.60,
         "iban": "GE48725688616729325333",
         "currency": "EUR",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Cash from ATM",
         "amount": -8.90,
         "iban": "GE43357255884492426492",
         "currency": "USD",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Costa",
         "amount": 5.50,
         "iban": "GE09241421336334847726",
         "currency": "GEL",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Donuts",
         "amount": 35.00,
         "iban": "GE90449357434331768181",
         "currency": "GEL",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Cash Back",
         "amount": 5.75,
         "iban": "GE48725688616729325333",
         "currency": "USD",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Parking",
         "amount": -15.20,
         "iban": "GE90449357434331768181",
         "currency": "EUR",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Fine Payment",
         "amount": -65.00,
         "iban": "GE88338276689785962362",
         "currency": "USD",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Utility Payment",
         "amount": -154.00,
         "iban": "GE48725688616729325333",
         "currency": "EUR",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "PayPal",
         "amount": 389.00,
         "iban": "GE09241421336334847726",
         "currency": "EUR",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Jane Smith",
         "amount": 17.00,
         "iban": "GE34583139188359123813",
         "currency": "USD",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         {
         "title": "Online Store",
         "amount": -79.99,
         "iban": "GE11563372822257592188",
         "currency": "GEL",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
          {
         "title": "John Smith",
         "amount": 45.00,
         "iban": "GE48725688616729325333",
         "currency": "GEL",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
          {
         "title": "Gym",
         "amount": -180.00,
         "iban": "GE34583139188359123813",
         "currency": "USD",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
          {
         "title": "Utility Payment",
         "amount": -125.12,
         "iban": "GE73366215618144552881",
         "currency": "GEL",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
           {
         "title": "Google Cloud Services",
         "amount": -300.00,
         "iban": "GE48725688616729325333",
         "currency": "USD",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
           {
         "title": "Fine Payment",
         "amount": -60.50,
         "iban": "GE14812246539441138311",
         "currency": "GEL",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
            {
         "title": "Taxi",
         "amount": -40.00,
         "iban": "GE60634479973596983828",
         "currency": "EUR",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
            {
         "title": "Utility Payment",
         "amount": -235.80,
         "iban": "GE14812246539441138311",
         "currency": "USD",
-        "status": "PROCESSING"
+        "status": "PROCESSING",
+        "note": {
+            "description": null
+        }
         },
            {
         "title": "Cash Back",
         "amount": 3.65,
         "iban": "GE84647689687485583355",
         "currency": "EUR",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+        "note": {
+            "description": null
+        }
         },
         ]
