@@ -16,6 +16,7 @@
         "iban": "GE43357255884492426492",
         "currency": "USD",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -26,6 +27,7 @@
         "iban": "GE09241421336334847726",
         "currency": "GEL",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -36,6 +38,7 @@
         "iban": "GE90449357434331768181",
         "currency": "GEL",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -46,6 +49,7 @@
         "iban": "GE48725688616729325333",
         "currency": "USD",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -56,6 +60,7 @@
         "iban": "GE90449357434331768181",
         "currency": "EUR",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -66,6 +71,7 @@
         "iban": "GE88338276689785962362",
         "currency": "USD",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -76,6 +82,7 @@
         "iban": "GE48725688616729325333",
         "currency": "EUR",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -86,6 +93,7 @@
         "iban": "GE09241421336334847726",
         "currency": "EUR",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -96,6 +104,7 @@
         "iban": "GE34583139188359123813",
         "currency": "USD",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -106,6 +115,7 @@
         "iban": "GE11563372822257592188",
         "currency": "GEL",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -116,6 +126,7 @@
         "iban": "GE48725688616729325333",
         "currency": "GEL",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -126,6 +137,7 @@
         "iban": "GE34583139188359123813",
         "currency": "USD",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -136,6 +148,7 @@
         "iban": "GE73366215618144552881",
         "currency": "GEL",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -146,6 +159,7 @@
         "iban": "GE48725688616729325333",
         "currency": "USD",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -156,6 +170,7 @@
         "iban": "GE14812246539441138311",
         "currency": "GEL",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -166,6 +181,7 @@
         "iban": "GE60634479973596983828",
         "currency": "EUR",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -176,6 +192,7 @@
         "iban": "GE14812246539441138311",
         "currency": "USD",
         "status": "PROCESSING",
+        "date": 1711091068,
         "note": {
             "description": null
         }
@@ -186,6 +203,7 @@
         "iban": "GE84647689687485583355",
         "currency": "EUR",
         "status": "COMPLETED",
+        "date": 1711091068,
         "note": {
             "description": null
         }
